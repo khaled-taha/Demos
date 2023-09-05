@@ -16,8 +16,8 @@ The program will read the second file on the second screen and extract all avail
 
 ## Tools:
 
-1. [] JavaFX
-2. [] Apache POI
+1. [ ] JavaFX
+2. [ ] Apache POI
 
 ## Demo
 
