@@ -1,4 +1,4 @@
-# Excel Comparator
+# Excel Comparator [Private Project]
 
 ## Description
 
